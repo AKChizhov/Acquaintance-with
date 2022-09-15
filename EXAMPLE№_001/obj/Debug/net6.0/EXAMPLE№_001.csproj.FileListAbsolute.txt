@@ -1,0 +1,15 @@
+D:\КурсЗнакомствоС_С#\EXAMPLE№_001\bin\Debug\net6.0\EXAMPLE№_001.exe
+D:\КурсЗнакомствоС_С#\EXAMPLE№_001\bin\Debug\net6.0\EXAMPLE№_001.deps.json
+D:\КурсЗнакомствоС_С#\EXAMPLE№_001\bin\Debug\net6.0\EXAMPLE№_001.runtimeconfig.json
+D:\КурсЗнакомствоС_С#\EXAMPLE№_001\bin\Debug\net6.0\EXAMPLE№_001.dll
+D:\КурсЗнакомствоС_С#\EXAMPLE№_001\bin\Debug\net6.0\EXAMPLE№_001.pdb
+D:\КурсЗнакомствоС_С#\EXAMPLE№_001\obj\Debug\net6.0\EXAMPLE№_001.csproj.AssemblyReference.cache
+D:\КурсЗнакомствоС_С#\EXAMPLE№_001\obj\Debug\net6.0\EXAMPLE№_001.GeneratedMSBuildEditorConfig.editorconfig
+D:\КурсЗнакомствоС_С#\EXAMPLE№_001\obj\Debug\net6.0\EXAMPLE№_001.AssemblyInfoInputs.cache
+D:\КурсЗнакомствоС_С#\EXAMPLE№_001\obj\Debug\net6.0\EXAMPLE№_001.AssemblyInfo.cs
+D:\КурсЗнакомствоС_С#\EXAMPLE№_001\obj\Debug\net6.0\EXAMPLE№_001.csproj.CoreCompileInputs.cache
+D:\КурсЗнакомствоС_С#\EXAMPLE№_001\obj\Debug\net6.0\EXAMPLE№_001.dll
+D:\КурсЗнакомствоС_С#\EXAMPLE№_001\obj\Debug\net6.0\refint\EXAMPLE№_001.dll
+D:\КурсЗнакомствоС_С#\EXAMPLE№_001\obj\Debug\net6.0\EXAMPLE№_001.pdb
+D:\КурсЗнакомствоС_С#\EXAMPLE№_001\obj\Debug\net6.0\EXAMPLE№_001.genruntimeconfig.cache
+D:\КурсЗнакомствоС_С#\EXAMPLE№_001\obj\Debug\net6.0\ref\EXAMPLE№_001.dll
